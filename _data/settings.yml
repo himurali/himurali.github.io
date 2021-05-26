@@ -14,6 +14,7 @@ menu:
 - {name: About, link: '/about'}
 - {name: Blog, link: '/blog'}
 - {name: Portfolio, link: '/portfolio'}
+- {name: Partner, link: '/investpartner'}
 - {name: Contact, link: '/contact'}
 
 
@@ -52,8 +53,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  Innovation Designer & Leader with intellectual expertise and practical experience leveraging transformational technologies to unlock social transformation. EXECUTIVE - Recognized innovative agent tasked with redesigning tourism and key business functions for Karnataka Tourism by former minister for Tourism CT Ravi. Recognized Pioneer in enabling Cycling in Karnataka by bringing cultural transformation.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -77,17 +77,17 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
+  - title : "NAMMA CYCLE "
     image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+    designation : "Chief Executive"
     
-  - title : "Julias Carlie"
+  - title : "PLOG RUN "
     image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+    designation : "Chief Program Co-ordinator"
     
-  - title : "John Doe"
+  - title : "NANDI HABBA"
     image : "assets/images/team/member-3.png"
-    designation : "Designer"
+    designation : "Chief Program Co-ordinator"
 
 
 #-------------------------------
@@ -95,10 +95,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Innovation Design for Sustainability, color: '#fdb157', value: '90%'}
+- {name: Digital Technologies - Web App - Stack , color: '#9473e6', value: '80%'}
+- {name: Strategic Design & Planning, color: '#bdecf6', value: '80%'}
+- {name: Community Engagement, color: '#ffbcaa', value: '80%'}
 
 
 #-------------------------------
@@ -106,9 +106,12 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: System Designer, icon: 'icon-1.png', date: 'Mar 1998 - Mar 2005', organization: 'GE HEALTHCARE'}
+- {name: Web Stack Consultant , icon: 'icon-2.png', date: 'Mar 2005 - Aug 2010', organization: 'FREELANCE TECHNICAL CONSULTANT'}
+- {name: Web Stack Consultant , icon: 'icon-3.png', date: 'Sep 2010 - Aug 2015', organization: 'PRATIAN'}
+- {name: Co-founder, icon: 'icon-1.png', date: 'Sep 2015 - Present', organization: 'MAHAKUTA'}
+- {name: CEO & Co-founder, icon: 'icon-2.png', date: 'Sep 2015  - Present', organization: 'NAMMA NIMMA CYCLE FOUNDATION'}
+- {name: Strategic advisor FORA, SAMRAKSHAN, icon: 'icon-3.png', date: 'Sep 2020 - Present', organization: 'ADVISOR'}
 
 
 #-------------------------------
@@ -116,10 +119,9 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: BE (E & C), date: '1998', organization: 'SJCE & Mysore  University'}
+- {name: Pre University Certificate, date: '1994', organization: 'Kumarans PU college'}
+- {name: Higher Secondary School Certificate, date: '1992', organization: 'MES High  School'}
 
 
 #-------------------------------
@@ -292,5 +294,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: Contact Murali HR
+contact-email: murali@nammacycle.in

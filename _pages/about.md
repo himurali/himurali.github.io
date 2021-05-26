@@ -6,13 +6,54 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+### Unleash the power of collaboration !
+---
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+#### Core Competencies
+
+*  Innovation for Sustainability .
+*  Digital technologies & Web technologies
+*  Strategy Design and Execution.
+*  Social and Community Innovation Design
+*  Communication Design
+*  Strategic Planning and Management tools.
+
+---
+##### Collaboration with Partners
+As part of the Advisory to Sri CT Ravi we did the following collaborations :
+Online competition with MPL to raise 15 lakhs for the CM Relief fund .
+
+Collaborate with multiple partners to work towards a main goal. I can collaborate with important people both in the corporate and government sectors. Familiar with the start up network and the investment sector. 
+
+In association with Veloscope started a initiative called StoriesBeyondBorders to document the multiple stories during covid last year.
+
+
+##### Program design
+Conceptualize new program and build the structure and flow/process map for a new program. Design process and enable system design for a set of problems.
+
+---
+##### Communication design
+Work with a team of artists from various art schools to communicate design.
+
+---
+
+
+---
+##### Community work 
+Work with communities in ensuring they get required support.Have worked with lake conservation, tree conservation, heritage conservation communities. Also work closely with running groups.
+
+---
+##### Innovation design 
+Design innovation for process/ technology/platform.Collaborated with important organizations including MIT and IISc in developing innovations for sustainable solutions.
+
+
+---
+##### Design Strategy / Action Plan Design
+I am working closely with the Tourism Department to enable rural entrepreneurship and was part of the Advisory team of Former Tourism Minister CT Ravi.
+
+
+As part of the Advisory we met many Entrepreneurs and Innovators - we evolved a Strategic Action Plan to for Chikamagalur. 
+
+---
+---
