@@ -8,7 +8,7 @@ description: this is meta description
 email: murali@nammacycle.in
 phone: +99450 66612
 address: Servelots 3354 KR ROAD BANGALORE
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright © 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -39,7 +39,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Murali  <br> Tech Geek, Social Designer and Innovator.
+  hero-title: Hi! I’m <br> Murali  <br> .
+  hero-subtitle: Social  Innovator, Community Builder, Digital Platform Designer, Bio Philic Atma.
+  
+
 
 social:
 - {icon: "ti-facebook", link: "www.facebook.com/muralihr"}
@@ -114,6 +117,27 @@ experience:
 - {name: Strategic advisor FORA, SAMRAKSHAN, icon: 'icon-3.png', date: 'Sep 2020 - Present', organization: 'ADVISOR'}
 
 
+
+#-------------------------------
+# Partner Section
+
+partner-title: Invest & Partnership
+partners:  
+  - title : "Center for Bio Philic Design "
+    image : "assets/images/partner/partner-1.png"
+    description : "A bio philic design for architects to build bio philic habitats"
+    url : "http://www.slideshare.net/folletto/kickastarting-design-thinking"
+    
+  - title : "Bio Diversity School "
+    image : "assets/images/partner/partner-2.png"
+    url : "http://www.slideshare.net/folletto/kickastarting-design-thinking"
+    
+  - title : "Bicycle Co-oeratives"
+    image : "assets/images/partner/partner-3.png"
+    url : "http://www.slideshare.net/folletto/kickastarting-design-thinking"
+
+
+
 #-------------------------------
 # Education Section
 
@@ -174,67 +198,157 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "CONSULTING",
+    type : "consulting"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "TRAINING",
+    type : "training"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "POLICY",
+    type : "policy"
+  }
+- {
+    title : "COMMUNITY",
+    type : "community"
+  }
+- {
+    title : "INNOVATIONS",
+    type : "innovations"
   }
 
+
+
+
+
+
+
+
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/training/TRAINING-FOR-ANDROID.jpg"
     url: "#"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "training"
+     - type: "consulting"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/training/springmvc.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "training"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/training/design-patterns.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "training"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/portfolio/training/angulartraiin.png"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "training"
+      - type: "consulting"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/training/javaj2ee.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "training"
       
-  - image : "assets/images/portfolio/item-5.png"
+  - image : "assets/images/portfolio/community/corporate.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
+      - type: "community"
       
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/community/cycleday.jpg"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "community"
       
-  - image : "assets/images/portfolio/item-3.png"
+  - image : "assets/images/portfolio/community/plogrun.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
+      - type: "community"
       
-  - image : "assets/images/portfolio/item-7.png"
+      
+  - image : "assets/images/portfolio/community/PRTC.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "community"
+
+
+  - image : "assets/images/portfolio/tourism/tourismadvisory.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+  - image : "assets/images/portfolio/tourism/nanditourism.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+  - image : "assets/images/portfolio/tourism/kaveritrails.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      - type: "consulting"
+      
+  - image : "assets/images/portfolio/tourism/iihc.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+  - image : "assets/images/portfolio/tourism/forttourism.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+  - image : "assets/images/portfolio/tourism/collectivekt.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+  - image : "assets/images/portfolio/tourism/ckp.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+      
+      
+  - image : "assets/images/portfolio/tourism/bangalore_tourism.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "policy"
+
+  - image : "assets/images/portfolio/innovations/circulareconom.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+
+  - image : "assets/images/portfolio/innovations/dec1.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+
+  - image : "assets/images/portfolio/innovations/dgec.png"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+
+  - image : "assets/images/portfolio/innovations/digiecosystem.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+
+  - image : "assets/images/portfolio/innovations/digitalstartegu.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+       
+  - image : "assets/images/portfolio/innovations/pfcoops.jpeg"
+    url: "#"
+    portfolio-type:
+      - type: "innovations"
+ 
+#
+# 
 
 
 #-------------------------------
