@@ -42,4 +42,7 @@
 <url>
 <loc>http://localhost:4000/portfolio.html</loc>
 </url>
+<url>
+<loc>http://localhost:4000/projects.html</loc>
+</url>
 </urlset>

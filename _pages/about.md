@@ -70,6 +70,14 @@ IMR Pvt Ltd Mar 1998 - Mar 2000
 
 
 **Strategic advisor**
+<<<<<<< Updated upstream
+
+-   As a strategic advisor to tourism minister conceived and drafted the report for a Indian Institute of Heritage and Conservation at Mysore. Mobilized community support by meeting leading national artists. The report was accepted by the Law Minister Prahlad joshi and CT Ravi and was submitted to the finance minister.
+-   Helped conceive and create an innovation strategy for fort conservation in Karnataka. Extensive survey, interview, and case analysis to diagnose the type of forts in Karnataka by visiting various forts. Analyse problem and create new innovation capabilities.
+-    Helped conceive and create an innovation strategy for raising funds for CM relief fund. Engaged with senior management of **MPL and Sports department to raise 15 lakhs**  Led to increased reputation for MPL, as well as expanded brand recognition. 
+
+-   Acted as a strategic advisor to the Forestry For All  team of a Fortune 50 company on the 3-5 year megatrends---e.g. urbanization, climate change and technology advancement---set in the context of the company's leadership challenges and strategic opportunities.
+=======
 
 -   As a strategic advisor to tourism minister conceived and drafted the report for a Indian Institute of Heritage and Conservation at Mysore. Mobilized community support by meeting leading national artists. The report was accepted by the Law Minister Prahlad joshi and CT Ravi and was submitted to the finance minister.
 -   Helped conceive and create an innovation strategy for fort conservation in Karnataka. Extensive survey, interview, and case analysis to diagnose the type of forts in Karnataka by visiting various forts. Analyse problem and create new innovation capabilities.
@@ -77,6 +85,13 @@ IMR Pvt Ltd Mar 1998 - Mar 2000
 
 -   Acted as a strategic advisor to the Forestry For All  team of a Fortune 50 company on the 3-5 year megatrends---e.g. urbanization, climate change and technology advancement---set in the context of the company's leadership challenges and strategic opportunities.
 
+>>>>>>> Stashed changes
+
+Executive client relations / Enhancing the brand
+
+-   Worked with Vodafone to organize Cyclothon in Mysore and Bangalore.
+
+**KEY STRENGTHS**
 
 Executive client relations / Enhancing the brand
 
@@ -105,6 +120,7 @@ Design innovation for process/ technology/platform.Collaborated with important o
 ---
 ##### Design Strategy / Action Plan Design
 I am working closely with the Tourism Department to enable rural entrepreneurship and was part of the Advisory team of Former Tourism Minister CT Ravi.  As part of the Advisory we met many Entrepreneurs and Innovators - we evolved a Strategic Action Plan to for Chikamagalur.
+<<<<<<< Updated upstream
 
 **EDUCATION**
 
@@ -138,6 +154,38 @@ ARTICLES
 
 Award Publications
 https://www.volvobuses.in/content/dam/volvo/volvo-buses/markets/india/events/VSMA-2013-Top-20-Entries.pdf 
+=======
 
----
----
+**EDUCATION**
+
+BE Electronics & Communication Engineering. Mysore University 1998 \
+>>>>>>> Stashed changes
+
+
+**ASSOCIATIONS & COMMUNITY OUTREACH**
+
+Organizer of Cycle Day, across Bangalore \
+Organizer of Yogi Run,\
+Cycle Tourism Advisory Board Member, Karnataka Eco tourism board 
+
+
+**PUBLICATIONS & THOUGHT LEADERSHIP**
+
+Authored many pieces of writing in *Parjavani* and elsewhere, including some of the important newspapers in promoting cycling. Highlights include:
+
+
+ARTICLES
+
+
+1. [Namma-Cycle-For-A-Pollution Free-City](https://www.thehindu.com/features/homes-and-gardens/namma-cycle-for-a-pollutionfree-city/article5586200.ece)
+1. [Doers Namma Cyclist Murali ](https://nextbigwhat.com/doers-namma-cyclist-murali/)
+1. [Last Mile Connectivity - Cycle-Track-to Baiyappanahalli Rmz Infinity](https://https://www.deccanherald.com/content/566797/cycle-track-baiyappanahalli-rmz-infinity.html)
+1. [Namma-cycle An initiative t make bengaluru-adopt-green-transport](https://economictimes.indiatimes.com/news/politics-and-nation/namma-cycle-an-initiative-to-make-bengaluru-adopt-green-transport/articleshow/52087665.cms)
+1. [Last mile connectivity to Metro](https://https://www.deccanherald.com/content/566797/cycle-track-baiyappanahalli-rmz-infinity.html)
+2. [Last mile connectivity to Metro](https://bengaluru.citizenmatters.in/4803-namma-cycle-sharing-at-iisc-4803 )
+3. https://bangaloremirror.indiatimes.com/bangalore/others/namma-cycle-iisc/articleshow/25224930.cms
+4. https://www.enidhi.net/2013/04/namma-cycle-initiative-in-bengaluru.html
+5. https://bsahercules.com/namma-cycle-kicks-off-in-indian-institute-of-science/
+
+Award Publications
+https://www.volvobuses.in/content/dam/volvo/volvo-buses/markets/india/events/VSMA-2013-Top-20-Entries.pdf
