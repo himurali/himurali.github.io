@@ -4,7 +4,7 @@ title: About Me
 author: Murali HR
 image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
-published: true
+published: false
 ---
 
 
@@ -87,7 +87,7 @@ IMR Pvt Ltd Mar 1998 - Mar 2000
 
 >>>>>>> Stashed changes
 
-Executive client relations / Enhancing the brand
+### Executive client relations / Enhancing the brand
 
 -   Worked with Vodafone to organize Cyclothon in Mysore and Bangalore.
 
@@ -105,27 +105,20 @@ Conceptualize new program and build the structure and flow/process map for a new
 ---
 ##### Communication design
 Work with a team of artists from various art schools to communicate design.
-
 ---
 
 ---
 ##### Community work 
 Work with communities in ensuring they get required support.Have worked with lake conservation, tree conservation, heritage conservation communities. Also work closely with running groups.
-
 ---
 ##### Innovation design 
 Design innovation for process/ technology/platform.Collaborated with important organizations including MIT and IISc in developing innovations for sustainable solutions.
-
-
 ---
 ##### Design Strategy / Action Plan Design
 I am working closely with the Tourism Department to enable rural entrepreneurship and was part of the Advisory team of Former Tourism Minister CT Ravi.  As part of the Advisory we met many Entrepreneurs and Innovators - we evolved a Strategic Action Plan to for Chikamagalur.
-<<<<<<< Updated upstream
 
 **EDUCATION**
-
-BE Electronics & Communication Engineering. Mysore University 1998 \
-
+_BE Electronics & Communication Engineering. Mysore University 1998 \_______
 
 **ASSOCIATIONS & COMMUNITY OUTREACH**
 
