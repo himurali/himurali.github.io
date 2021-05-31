@@ -16,6 +16,7 @@ menu:
 - {name: Portfolio, link: '/portfolio'}
 - {name: Projects, link: '/projects'}
 - {name: Partner, link: '/investpartner'}
+- {name: Gallery, link: '/gallery'}
 - {name: Contact, link: '/contact'}
 
 
