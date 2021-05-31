@@ -42,7 +42,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Hi! I’m <br> Murali  <br> .
-  hero-subtitle: Social  Innovator, Community Builder, Digital Platform Designer, Bio Philic Atma.
+  hero-subtitle: Social  Innovator, Community Engagement Designer, Digital Platform Curator, Bio Philic Atma.
   
 
 
@@ -160,21 +160,21 @@ education:
 services-title: Services
 services:
 - {
-    name: Technology Consulting,
+    name: Digital Ecosystem & Tech Infra for sustainability infrastructure ,
     icon: ti-palette,
     description: 'Consulting for developing the webstack for mobile and web application. I also do training for the corporates',
     active: # Add true to select section
   }
 - {
-    name: Strategic Innovation and Design,
+    name: Strategic Innovation and Design in Sustainability,
     icon: ti-vector,
     description: 'I am also an expert in designing for sustainability and the innovation for developing sustainable products.',
     active: true # Add true to select section
   }
 - {
-    name: Community Engagement for Impact Design,
+    name: Community Engagement Design for Impact  ,  
     icon: ti-panel,
-    description: 'Community engagement for creating high impact and high visibility.',
+    description: 'Designing and Orchestrating Community engagement for creating high impact and high visibility.',
     active: # Add true to select section
   }
 
