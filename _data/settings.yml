@@ -42,7 +42,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Hi! I’m <br> Murali  <br> .
-  hero-subtitle: Social  Innovator, Community Engagement Designer, Digital Platform Curator, Bio Philic Atma.
+  hero-subtitle1: Social  Innovator for Sustainability 
+  hero-subtitle2: Community Engagement Designer
+  hero-subtitle3: Digital Platform Curator 
+  hero-subtitle4: Bio Philic Atma.
   
 
 
@@ -57,8 +60,14 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb:
-  Innovation Designer & Leader with intellectual expertise and practical experience leveraging transformational technologies to unlock social transformation. EXECUTIVE - Recognized innovative agent tasked with redesigning tourism and key business functions for Karnataka Tourism by former minister for Tourism CT Ravi. Recognized Pioneer in enabling Cycling in Karnataka by bringing cultural transformation.
+blurb1:
+  Innovation Designer &  leveraging transformational technologies to unlock social transformation.
+blurb2:
+   Leader with intellectual expertise and practical experience leveraging transformational technologies to unlock social transformation. 
+blurb3:
+   Recognized innovative agent tasked with redesigning tourism and key business functions for Karnataka Tourism by former minister for Tourism CT Ravi, Govt of Karnataka.   
+blurb4:
+   Recognized Pioneer in enabling Cycling in Karnataka by bringing cultural transformation.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -115,12 +124,13 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: System Designer, icon: 'icon-1.png', date: 'Mar 1998 - Mar 2005', organization: 'GE HEALTHCARE'}
-- {name: Web Stack Consultant , icon: 'icon-2.png', date: 'Mar 2005 - Aug 2010', organization: 'FREELANCE TECHNICAL CONSULTANT'}
-- {name: Web Stack Consultant , icon: 'icon-3.png', date: 'Sep 2010 - Aug 2015', organization: 'PRATIAN'}
 - {name: Co-founder, icon: 'icon-1.png', date: 'Sep 2015 - Present', organization: 'MAHAKUTA'}
 - {name: CEO & Co-founder, icon: 'icon-2.png', date: 'Sep 2015  - Present', organization: 'NAMMA NIMMA CYCLE FOUNDATION'}
 - {name: Strategic advisor FORA, SAMRAKSHAN, icon: 'icon-3.png', date: 'Sep 2020 - Present', organization: 'ADVISOR'}
+- {name: Strategic advisor Karnataka Tourism, Tourism Departmemt, icon: 'icon-3.png', date: 'Sep 2020 - Present', organization: 'INNOVATOR'}
+- {name: Web Stack Consultant , icon: 'icon-2.png', date: 'Mar 2005 - Aug 2010', organization: 'FREELANCE TECHNICAL CONSULTANT'}
+- {name: Web Stack Consultant , icon: 'icon-3.png', date: 'Sep 2010 - Aug 2015', organization: 'PRATIAN'}
+- {name: System Designer, icon: 'icon-1.png', date: 'Mar 1998 - Mar 2005', organization: 'GE HEALTHCARE'}
 
 
 
