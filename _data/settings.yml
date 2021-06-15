@@ -77,17 +77,16 @@ blurb-btn-name: know more
 # Work Process Section
 work-process:
   - title : "Envision & Inspire"
-    icon : "assets/images/icons/plan.png"
-    content : "Envisioning: helping organizations incorporate a future oriented, long-term perspective into their objectives.
-Inspiring: generating the confidence actors need to think and act differently."
+    icon : "assets/images/icons/vision.png"
+    content : "Envisioning: Inspiring:  ."
     
   - title : "Design and Develop"
-    icon : "assets/images/icons/design.png"
-    content : "Simplifying: selecting, connecting, and leveraging the relevant resources and knowledge to manage the complexity of the strategic project.
-Structuring: defining and executing each step on the road to achieving a project’s objectives, while allowing for flexibility and sensitivity to changing circumstances.."
+    icon : "assets/images/icons/design-30.png"
+    content : "Simplifying: selecting, connecting, and leveraging the relevant resources  .
+Structuring: defining and executing each step on the road to achieving a project’s objectives,    .."
     
   - title : "Deliver"
-    icon : "assets/images/icons/print.png"
+    icon : "assets/images/icons/deliver.png"
     content : "Aligning: steering the strategic outcome in a direction that matches the organization’s strategy, values and assets.
 Translating: converting information from one language to another – verbal to visual, visual to verbal, tacit to explicit, explicit to tacit – to enable knowledge sharing across stakeholders.Educating: creating lasting impact by teaching the ins and outs of design," 
  
